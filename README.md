@@ -22,7 +22,8 @@ All of these tables represent simple data in library's database. During the proj
   - download MySQL server
   - connect to the database
   - create schema
-
+  - create 6 tables on the library`s theme
+  - add some simple queries
 2. Practical assignment 2:
   - update tables with added keys and one-to-many relationships
   - create new tables with many-to-many relationships: author-book, book-genre, book-loan
